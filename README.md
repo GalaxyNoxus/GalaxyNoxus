@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/GalaxyNoxus/GalaxyNoxus/output/snake.svg" alt="Snake animation" width="100%" />
 
-<br>
+<br><br>
 
 </div>
 
