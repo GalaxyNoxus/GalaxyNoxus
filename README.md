@@ -2,8 +2,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-sic-seven.vercel.app/api?username=GalaxyNoxus&show_icons=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats-sic-seven.vercel.app/api/top-langs/?username=GalaxyNoxus&layout=compact&langs_count=8&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GalaxyNoxus&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=0d1117&title_color=0d47a1&icon_color=0d47a1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyNoxus&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=0d1117&title_color=0d47a1)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GalaxyNoxus&theme=transparent&ring=0d47a1&fire=0d47a1&currStreakLabel=0d47a1)](https://github.com/GalaxyNoxus)
 
