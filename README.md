@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GalaxyNoxus&theme=transparent&ring=0d47a1&fire=4d9fff&currStreakLabel=4d9fff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=0d47a1" />
+<img src="https://streak-stats.demolab.com/?user=GalaxyNoxus&theme=transparent&ring=0d47a1&fire=4d9fff&currStreakLabel=4d9fff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=0d47a1&v=2" />
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GalaxyNoxus&layout=compact&langs_count=8&theme=dark&hide_border=true&border_color=0d47a1&bg_color=0d1117&title_color=4d9fff&text_color=c9d1d9" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GalaxyNoxus&layout=compact&langs_count=8&theme=dark&hide_border=true&border_color=0d47a1&bg_color=0d1117&title_color=4d9fff&text_color=c9d1d9&v=2" />
 
 </div>
 
