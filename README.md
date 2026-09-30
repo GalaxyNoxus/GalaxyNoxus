@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GalaxyNoxus&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&border_color=0d47a1&bg_color=0d1117&title_color=4d9fff&text_color=c9d1d9" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GalaxyNoxus&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&border_color=0d47a1&bg_color=0d1117&title_color=4d9fff&text_color=c9d1d9&v=3" />
 
 </div>
 
